@@ -1,0 +1,34 @@
+{
+    "title": "Noise and its challenges",
+    "video_segment": "130:16",
+    "content_flow": [
+        {
+            "content_type": "slide_description",
+            "text": "The slide defines noise as the modification of original values, providing an example of distortion in a voice when talking on a poor phone or \"snow\" on a television screen. It also shows a graph of noisy data."
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "So for example this is the data. Guys automatically lot and then what we need to do. So for example, this is the data actually have the noise. Then we might need to do a lot of transformation. How do I know that what is the real signal behind that? We might need to do a lot of transformation. Like right now, you see them, you are in curve. Maybe they do having some frequency way. So convert them into frequency domain. Then you will find out, oh, they are just two frequencies with some noise. Then you can somehow remove that noise. Then you can somehow remove that noise from them. Have a lot of different mathematical background to know what kind of thing need to be convert. Because in the end, you might only receive the right figure, right signal right there.",
+            "timestamp": "130:16"
+        },
+        {
+            "content_type": "slide_description",
+            "text": "The slide is titled \"Challenges for Dealing Noise\" and asks \"Is it really noise?\". It features images of three scientists and a quote about the Nobel Prize in Physics in 1978, mentioning \"Radio astronomers at Bell Labs in Holmdel, New Jersey, where they work on ultra-sensitive cryogenic microwave receivers.\" It also mentions Robert Dicke, Princeton University, and \"Discovery of cosmic microwave background radiation -> Big Bang Theory.\""
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "I don't have time. No, I have some story I want to talk. Unfortunately, today I don't have time. But the thing I can tell you is knowing sometimes they are not noise. This gentlemen right here, these two gentlemen right here, are the people who are the engineers in the Bell Lab. And then they find out that they have a very sensitive microwave receiver. No matter how they try, they always have noise inside. And they don't know what why the noise cannot be removed. So they went to this professor. This professor, he is expert in the cosmic microwave background radiation. He think that is something related to Big Bang theory. If the Big Bang theory, you know, like universe actually starting with Big Bang boom and everything come out of there. That's the physics there. But people need to find evidence about it. So this professor, his whole life, he tried to find evidence. He have a lot of theory, none of them has actually have the evidence. But he think if something is right, the evidence will be there. This and that. So these two gentlemen try to find him. And he actually give him the tips. Oh, if you do, maybe it's a Big Bang. So these two gentlemen actually afterwards, they write a paper talking about how they try to do this one, how they try to denoise it. In turn out, the noise is not noise. It's really the evidence for Big Bang. So they receive the Nobel Prize. How about that professor? Professor received nothing. So later on, if you remember, you get the Nobel Prize and thank me. And then, even though I receive nothing. But then there's another possible people who probably can have the Nobel Prize winner in certain time. This is Kuo, Chao Lin. Member of BICEP2, claimed at 2014/3/17 that they got the evidence of Big Bang. 2015/1/30 admitted that the signal might come from noise.",
+            "timestamp": "130:53"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "So later on, if you remember, you get the Nobel Prize and thank me. And then, even though I receive nothing. But then there's another possible people who probably can have the Nobel Prize winner in certain time. This is Kuo, Chao Lin. Member of BICEP2, claimed at 2014/3/17 that they got the evidence of Big Bang. 2015/1/30 admitted that the signal might come from noise. Those people go to South Pole and then try to utilize some very fancy equipment. And then they just say, \"Hmm, I receive something. I actually I'm not from Department of Physics. I don't know anything but they just claim they receive that. And then after 8 months, they admit that signal, they think it's evidence, might be noise.",
+            "timestamp": "133:36"
+        },
+        {
+            "content_type": "transcript_segment",
+            "text": "Why am I talking about this story to you? Because noise probably are not noise. The evidence you think might be noise.",
+            "timestamp": "133:48"
+        }
+    ]
+}
